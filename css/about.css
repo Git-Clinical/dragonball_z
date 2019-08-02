@@ -1,0 +1,19 @@
+.about-container {
+    height: 700px;
+    width: 100%;
+}
+
+.about-col {
+    height: 700px;
+    width: 30%;
+    border: 3px solid blue;
+    float: left;
+    /* margin-top: 80px; */
+    margin-left: 20px;
+}
+
+.about-col-img {
+    height: 300px;
+    width: 100%;
+    margin-top: 10px;
+}
